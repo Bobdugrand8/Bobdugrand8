@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bobdugrand8
-- 🌱 I’m currently learning computer programming
+- I'm a .Net developer
 
 <!---
 Bobdugrand8/Bobdugrand8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
